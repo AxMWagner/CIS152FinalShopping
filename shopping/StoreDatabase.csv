@@ -1,0 +1,272 @@
+﻿Department,Category,Product,Price,Quantity
+Clothing,Accessories,Ankle Socks,3.99,95
+Clothing,Accessories,Bandana,10.00,10
+Clothing,Accessories,Belt,15.00,68
+Clothing,Accessories,Bowtie,15.00,52
+Clothing,Accessories,Bracelet,20.00,12
+Clothing,Accessories,Brooch,15.00,59
+Clothing,Accessories,Chain Belt,25.00,39
+Clothing,Accessories,Choker Necklace,15.00,81
+Clothing,Accessories,Cufflinks,25.75,76
+Clothing,Accessories,Fedora Hat,20.00,62
+Clothing,Accessories,Fingerless Gloves,10.00,46
+Clothing,Accessories,Gloves,10.00,21
+Clothing,Accessories,Hat,20.00,75
+Clothing,Accessories,Necklace,25.00,62
+Clothing,Accessories,Pocket Square,10.00,47
+Clothing,Accessories,Ring,30.00,38
+Clothing,Accessories,Scarf,20.00,24
+Clothing,Accessories,Silk Scarf,40.00,60
+Clothing,Accessories,Socks,5.00,88
+Clothing,Accessories,Sunglasses,10.00,48
+Clothing,Accessories,Sunglasses Case,10.00,39
+Clothing,Accessories,Suspenders,15.00,2
+Clothing,Accessories,Tassel Earrings,20.00,52
+Clothing,Accessories,Tie,20.00,25
+Clothing,Accessories,Umbrella,15.00,70
+Clothing,Accessories,Wallet,30.00,32
+Clothing,Accessories,Wallet Chain,15.00,24
+Clothing,Accessories,Watch,50.00,9
+Clothing,Accessories,Watch Box,30.00,17
+Clothing,Accessories,Wristwatch,50.00,43
+Clothing,Dresses,Sundress,40.00,99
+Clothing,Jackets,Leather Jacket,100.00,5
+Clothing,Outerwear,Blazer,60.00,70
+Clothing,Outerwear,Bomber Jacket,70.00,36
+Clothing,Outerwear,Coat,80.00,66
+Clothing,Outerwear,Fleece Jacket,80.00,86
+Clothing,Outerwear,Fur Coat,200.00,51
+Clothing,Outerwear,Hoodie,35.00,41
+Clothing,Outerwear,Parka,100.00,51
+Clothing,Outerwear,Peacoat,120.00,42
+Clothing,Outerwear,Poncho,40.00,64
+Clothing,Outerwear,Raincoat,80.00,81
+Clothing,Outerwear,Ski Jacket,150.00,15
+Clothing,Outerwear,Trench Coat,100.00,100
+Clothing,Outerwear,Tweed Jacket,100.00,74
+Clothing,Outerwear,Vest,50.00,80
+Clothing,Outerwear,Windbreaker,70.00,93
+Clothing,Pants,Jeans,30.00,95
+Clothing,Shirts,Polo Shirt,25.00,95
+Clothing,Shirts,T-shirt,15.00,33
+Clothing,Shoes,Ballet Flats,40.00,22
+Clothing,Shoes,Boat Shoes,60.00,67
+Clothing,Shoes,Boots,70.99,38
+Clothing,Shoes,Clogs,40.00,11
+Clothing,Shoes,Flats,40.00,83
+Clothing,Shoes,Flip Flops,20.00,67
+Clothing,Shoes,Heels,50.00,97
+Clothing,Shoes,Hiking Boots,100.00,50
+Clothing,Shoes,Loafers,60.00,0
+Clothing,Shoes,Oxfords,70.00,99
+Clothing,Shoes,Platform Shoes,50.00,83
+Clothing,Shoes,Running Shoes,80.00,86
+Clothing,Shoes,Sandals,30.00,40
+Clothing,Shoes,Slippers,20.00,36
+Clothing,Shoes,Sneakers,50.00,23
+Clothing,Swimwear,Bikini,20.00,8
+Clothing,Underwear,Boxer Briefs,5.00,9
+Clothing,Women,Dress,50.00,27
+Electronics,Accessories,Headphones,50.00,86
+Electronics,Accessories,USB Flash Drive,10.00,21
+Electronics,Accessories,Wireless Mouse,20.00,82
+Electronics,Audio,Bluetooth Receiver,50.00,55
+Electronics,Audio,Bluetooth Speaker,60.00,54
+Electronics,Audio,Earphones,30.00,12
+Electronics,Audio,Headphone Stand,20.00,0
+Electronics,Audio,Record Player,150.00,86
+Electronics,Audio,Record Storage Crate,20.00,23
+Electronics,Audio,Soundbar,100.99,67
+Electronics,Audio,Soundproofing Panels,50.00,72
+Electronics,Audio,Subwoofer,80.00,4
+Electronics,Audio,Turntable,200.00,49
+Electronics,Audio,Vinyl Record Storage,50.00,64
+Electronics,Audio,Wireless Charging Pad,40.00,28
+Electronics,Audio,Wireless Earbuds,80.00,51
+Electronics,Audio,Wireless Headphone Stand,30.00,73
+Electronics,Audio,Wireless Subwoofer,120.00,91
+Electronics,Cameras,DSLR Camera,800.00,85
+Electronics,Computers,Desktop PC,"1,200.00",92
+Electronics,Computers,External Hard Drive,70.00,86
+Electronics,Computers,Graphic Drawing Tablet,100.00,53
+Electronics,Computers,Graphics Tablet,80.00,83
+Electronics,Computers,Laptop,999.00,97
+Electronics,Computers,Laser Printer,150.00,67
+Electronics,Computers,Monitor,150.00,99
+Electronics,Computers,Portable Monitor,150.00,100
+Electronics,Computers,Portable Scanner,80.00,19
+Electronics,Computers,Webcam,30.00,25
+Electronics,Computers,Wireless Headset,80.00,39
+Electronics,Computers,Wireless Keyboard,40.00,78
+Electronics,Computers,Wireless Presenter,30.00,35
+Electronics,Computers,Wireless Printer,100.00,61
+Electronics,Gaming,Console Controller,60.00,26
+Electronics,Gaming,Game Capture Card,100.00,41
+Electronics,Gaming,Gaming Chair,150.00,23
+Electronics,Gaming,Gaming Chair Cover,20.00,82
+Electronics,Gaming,Gaming Chair Mat,20.99,22
+Electronics,Gaming,Gaming Console,400.00,66
+Electronics,Gaming,Gaming Desk,200.00,27
+Electronics,Gaming,Gaming Desk Mat,15.00,65
+Electronics,Gaming,Gaming Glasses,30.00,30
+Electronics,Gaming,Gaming Headset,70.00,26
+Electronics,Gaming,Gaming Keyboard,50.00,34
+Electronics,Gaming,Gaming Mouse,40.00,72
+Electronics,Gaming,Gaming Mouse Mat,15.00,80
+Electronics,Gaming,Gaming Mouse Pad,20.00,48
+Electronics,Gaming,VR Headset,200.00,75
+Electronics,Networking,Wi-Fi Router,80.00,64
+Electronics,Phones,Smartphone,700.00,27
+Electronics,Smart Home,Security Camera,50.00,82
+Electronics,Smart Home,Smart Blinds,100.00,87
+Electronics,Smart Home,Smart Curtain System,150.00,55
+Electronics,Smart Home,Smart Door Lock,100.00,6
+Electronics,Smart Home,Smart Doorbell,100.00,3
+Electronics,Smart Home,Smart Humidifier,80.00,9
+Electronics,Smart Home,Smart Light Bulb,15.00,32
+Electronics,Smart Home,Smart Lock,80.00,9
+Electronics,Smart Home,Smart Mirror,200.00,9
+Electronics,Smart Home,Smart Plug,20.00,58
+Electronics,Smart Home,Smart Scale,80.00,58
+Electronics,Smart Home,Smart Speaker,150.00,47
+Electronics,Smart Home,Smart Thermostat,100.00,26
+Electronics,TV,Smart TV,500.00,66
+Electronics,Wearables,Fitness Tracker,80.00,37
+Electronics,Wearables,Smart Watch,150.00,57
+Grocery,Bakery,Bread,3.00,63
+Grocery,Beverages,Almond Milk,3.00,16
+Grocery,Beverages,Apple Juice,2.00,97
+Grocery,Beverages,Coconut Milk,3.00,40
+Grocery,Beverages,Coconut Water,3.00,52
+Grocery,Beverages,Coffee,5.00,38
+Grocery,Beverages,Cold Brew Coffee,4.00,64
+Grocery,Beverages,Cranberry Juice,3.00,57
+Grocery,Beverages,Energy Drink,3.00,6
+Grocery,Beverages,Fruit Punch,2.00,35
+Grocery,Beverages,Hot Chocolate,3.00,9
+Grocery,Beverages,Lemonade,2.50,3
+Grocery,Beverages,Orange Juice,2.00,97
+Grocery,Beverages,Soda,1.50,94
+Grocery,Beverages,Sports Drink,2.00,54
+Grocery,Beverages,Tea,3.00,46
+Grocery,Canned Goods,Canned Beans,1.00,72
+Grocery,Condiments,Ketchup,2.00,27
+Grocery,Dairy,Eggs,2.00,79
+Grocery,Dairy,Milk,4.00,5
+Grocery,Frozen Foods,Frozen Pizza,5.00,13
+Grocery,Fruits,Apples,2.00,72
+Grocery,Pasta,Spaghetti,1.50,6
+Grocery,Produce,Artichokes,4.00,5
+Grocery,Produce,Asparagus,3.00,43
+Grocery,Produce,Avocados,2.00,65
+Grocery,Produce,Bananas,1.00,28
+Grocery,Produce,Bell Peppers,2.00,10
+Grocery,Produce,Blackberries,5.00,74
+Grocery,Produce,Blueberries,4.00,75
+Grocery,Produce,Brussels Sprouts,2.00,33
+Grocery,Produce,Cabbage,2.00,31
+Grocery,Produce,Carrots,1.00,56
+Grocery,Produce,Cauliflower,3.00,39
+Grocery,Produce,Celery,2.00,72
+Grocery,Produce,Cherries,4.00,28
+Grocery,Produce,Cucumbers,1.00,38
+Grocery,Produce,Grapes,3.00,5
+Grocery,Produce,Kale,3.00,1
+Grocery,Produce,Kiwis,1.50,12
+Grocery,Produce,Lemons,0.75,42
+Grocery,Produce,Limes,1.00,79
+Grocery,Produce,Mangoes,2.00,57
+Grocery,Produce,Oranges,0.50,95
+Grocery,Produce,Peaches,2.00,19
+Grocery,Produce,Pears,2.00,36
+Grocery,Produce,Pineapples,3.00,48
+Grocery,Produce,Plums,2.00,66
+Grocery,Produce,Raspberries,4.00,21
+Grocery,Produce,Strawberries,3.00,94
+Grocery,Produce,Watermelon,5.00,42
+Grocery,Sauces,BBQ Sauce,3.00,73
+Grocery,Snacks,Chocolate,4.00,83
+Grocery,Snacks,Dried Fruit,4.00,60
+Grocery,Snacks,Fruit Cups,2.00,81
+Grocery,Snacks,Granola Bars,3.00,63
+Grocery,Snacks,Jerky,6.00,35
+Grocery,Snacks,Nuts,5.00,0
+Grocery,Snacks,Pita Chips,3.00,91
+Grocery,Snacks,Plantain Chips,3.00,14
+Grocery,Snacks,Popcorn,3.00,73
+Grocery,Snacks,Popcorn Seasoning,4.00,32
+Grocery,Snacks,Potato Chips,3.00,56
+Grocery,Snacks,Pretzels,2.00,4
+Grocery,Snacks,Rice Cakes,3.00,71
+Grocery,Snacks,Trail Mix,4.00,5
+Grocery,Snacks,Trail Mix Packets,3.00,8
+Grocery,Snacks,Veggie Chips,4.00,10
+Grocery,Snacks,Veggie Straws,3.00,72
+Grocery,Vegetables,Tomatoes,1.50,29
+Home,Bathroom,Towels,10.00,71
+Home,Bedding,Blanket,25.00,60
+Home,Bedding,Pillow,20.00,45
+Home,Cleaning,Broom,10.00,0
+Home,Cleaning,Vacuum Cleaner,150.00,54
+Home,Decor,Area Rug,50.00,53
+Home,Decor,Coasters,5.00,0
+Home,Decor,Curtains,25.00,80
+Home,Decor,Desk Organizer,20.00,17
+Home,Decor,Floor Lamp,60.00,73
+Home,Decor,Picture Frames,15.00,1
+Home,Decor,Plant Pot,10.00,69
+Home,Decor,Plant Stand,20.00,10
+Home,Decor,Throw Blanket,20.00,35
+Home,Decor,Throw Pillow,12.00,42
+Home,Decor,Wall Art,30.00,28
+Home,Decor,Wall Clock,20.00,72
+Home,Decor,Wall Decal,15.00,46
+Home,Decor,Wall Shelves,30.00,33
+Home,Decor,Wall Tapestry,40.00,77
+Home,Furniture,Coffee Table,100.00,88
+Home,Furniture,Sofa,600.00,98
+Home,Garden,Garden Hose,20.00,30
+Home,Kitchen,Blender,50.00,49
+Home,Kitchen,Coffee Maker,30.00,9
+Home,Kitchen,Cutting Board,10.00,36
+Home,Kitchen,Electric Can Opener,15.00,95
+Home,Kitchen,Electric Kettle,20.00,76
+Home,Kitchen,Food Processor,70.00,61
+Home,Kitchen,Food Steamer,40.00,91
+Home,Kitchen,Food Storage Containers,20.00,16
+Home,Kitchen,Microwave,80.00,12
+Home,Kitchen,Mixing Bowls,15.00,22
+Home,Kitchen,Rice Cooker,40.00,29
+Home,Kitchen,Sandwich Maker,30.00,84
+Home,Kitchen,Slow Cooker,50.00,9
+Home,Kitchen,Soda Maker,60.00,42
+Home,Kitchen,Toaster,25.00,33
+Home,Pets,Dog Bed,30.00,75
+Home,Storage,Clothes Hangers,10.00,72
+Home,Storage,Drawer Organizers,10.00,74
+Home,Storage,File Box,10.00,37
+Home,Storage,Hanging Organizer,15.00,36
+Home,Storage,Jewelry Organizer,15.00,17
+Home,Storage,Laundry Basket,15.00,32
+Home,Storage,Shelf Liners,10.00,31
+Home,Storage,Shoe Organizer,15.00,74
+Home,Storage,Shoe Rack,20.00,61
+Home,Storage,Storage Bins,8.00,96
+Home,Storage,Storage Ottoman,30.00,43
+Home,Storage,Under Sink Organizer,15.00,2
+Home,Storage,Underbed Storage,20.00,84
+Home,Storage,Vacuum Storage Bags,15.00,46
+Home,Tools,Adjustable Wrench,15.00,75
+Home,Tools,Allen Wrench Set,10.00,23
+Home,Tools,Drill,50.00,13
+Home,Tools,Hammer,15.00,99
+Home,Tools,Ladder,50.00,96
+Home,Tools,Measuring Tape,10.00,10
+Home,Tools,Power Drill,50.00,71
+Home,Tools,Screwdriver Set,20.00,84
+Home,Tools,Stud Finder,20.00,98
+Home,Tools,Tape Measure,10.00,32
+Home,Tools,Tool Belt,20.00,83
+Home,Tools,Toolbox,40.00,58
+Home,Tools,Utility Knife,10.00,53
+Home,Tools,Utility Scissors,10.00,2
